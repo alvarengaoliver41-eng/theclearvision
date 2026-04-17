@@ -19,6 +19,7 @@ type FormData = {
 const rubros = [
   "Restaurante / Food",
   "Clínica / Salud",
+  "Inmobiliaria",
   "Comercio / Tienda",
   "Consultoría / Servicios",
   "Ecommerce",

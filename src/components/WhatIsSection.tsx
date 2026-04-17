@@ -47,13 +47,13 @@ const WhatIsSection = () => {
               Quiénes somos
             </span>
             <h2 className="text-3xl md:text-5xl lg:text-[56px] font-display font-bold tracking-tighter leading-[1.06] mb-7">
-              Una agencia digital boutique
+              Una agencia digital con
               <br />
-              <span className="gradient-gold-text">con foco en tu resultado.</span>
+              <span className="gradient-gold-text">foco en tu resultado.</span>
             </h2>
             <p className="text-lg text-foreground/55 font-body leading-relaxed">
               Somos ClearVision AI, con base en Hernandarias, Paraguay. Combinamos diseño
-              premium y automatización inteligente para ayudar a negocios locales a conseguir
+              premium y automatización inteligente para ayudar a negocios a conseguir
               más clientes — sin depender de terceros ni perder tiempo en tareas que
               una máquina puede hacer mejor.
             </p>

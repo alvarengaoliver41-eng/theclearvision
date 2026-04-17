@@ -13,8 +13,8 @@ const Footer = ({ onOpenModal }: Props) => {
           <div>
             <img src={logoFull} alt="ClearVision AI" className="h-8 w-auto mb-4" />
             <p className="text-sm text-muted-foreground font-body leading-relaxed max-w-xs">
-              Agencia digital boutique en Paraguay. Páginas web que convierten y
-              automatizaciones que trabajan solas.
+              Agencia digital en Paraguay. Páginas web, automatizaciones,
+              apps y publicidad que generan resultados reales.
             </p>
           </div>
 
