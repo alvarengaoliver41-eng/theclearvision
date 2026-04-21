@@ -11,7 +11,7 @@ const Footer = ({ onOpenModal }: Props) => {
       <div className="container mx-auto px-6">
         <div className="grid md:grid-cols-3 gap-10 items-start mb-12">
           <div>
-            <img src={logoFull} alt="ClearVision AI" className="h-8 w-auto mb-4" />
+            <img src={logoFull} alt="ClearVision AI" className="h-12 w-auto mb-4" />
             <p className="text-sm text-muted-foreground font-body leading-relaxed max-w-xs">
               Agencia digital en Paraguay. Páginas web, automatizaciones,
               apps y publicidad que generan resultados reales.

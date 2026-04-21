@@ -18,7 +18,7 @@ const HeroSection = ({ onOpenModal }: Props) => {
       </div>
 
       <div
-        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[520px] h-[280px] rounded-full blur-[130px] opacity-[0.11] pointer-events-none"
+        className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[520px] h-[280px] rounded-full blur-[70px] opacity-[0.11] pointer-events-none"
         style={{ background: "hsl(var(--gold))" }}
       />
 
