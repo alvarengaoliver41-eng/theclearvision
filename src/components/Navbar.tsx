@@ -36,7 +36,7 @@ const Navbar = ({ onOpenModal }: Props) => {
     >
       <div className="container mx-auto px-6 flex items-center justify-between">
         <a href="#hero" className="flex items-center gap-3">
-          <img src={logoFull} alt="ClearVision AI" className="h-12 md:h-14 w-auto" />
+          <img src={logoFull} alt="ClearVision AI" className="h-14 md:h-16 w-auto" />
         </a>
 
         <div className="hidden lg:flex items-center gap-8">
